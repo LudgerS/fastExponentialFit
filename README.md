@@ -3,7 +3,7 @@
 
  Intended for T2 or T2* MRI relaxometry.
  
- Refernces and details in source code comments.
+ References and details in source code comments.
  
  Licensed under GNU GPLv3
 
