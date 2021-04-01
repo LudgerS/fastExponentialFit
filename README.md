@@ -1,5 +1,7 @@
 # fastExponentialFit
  Implementation of Pei's underappreciated and blindingly fast algorithm for mono-exponential fits.
+ 
+ I am not in any way connected to the original authors.
 
  Intended for T2 or T2* MRI relaxometry.
  
