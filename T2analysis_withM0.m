@@ -1,5 +1,5 @@
 function [T2map, M0est] = T2analysis_withM0(data, TEs)
-% Implementation of Pei, "Algorithm for Fast Monoexponential Fitting Based on
+% Implementation of Pei et al., "Algorithm for Fast Monoexponential Fitting Based on
 % Auto-Regression on Linear Operations (ARLO) of Data", 2015
 % https://onlinelibrary.wiley.com/doi/full/10.1002/mrm.25137
 %
@@ -18,7 +18,7 @@ function [T2map, M0est] = T2analysis_withM0(data, TEs)
 % m is the decaying signal
 % deltaTE the spacing between echos
 %
-% Written by Ludger Starke; Max Delbrück Center for Molecular Medicine in
+% Written by Ludger Starke; Max DelbrÃ¼ck Center for Molecular Medicine in
 % the Helmholtz Association, Berlin; 21-03-31
 %
 % License: GNU GPLv3 
